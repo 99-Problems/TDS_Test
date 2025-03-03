@@ -1,0 +1,52 @@
+[
+  {
+    "stringID": "1",
+    "langaugeType": "23",
+    "stringData": "{0}"
+  },
+  {
+    "stringID": "2",
+    "langaugeType": "23",
+    "stringData": "{0} / {1}"
+  },
+  {
+    "stringID": "3",
+    "langaugeType": "23",
+    "stringData": "{0}:{1}"
+  },
+  {
+    "stringID": "4",
+    "langaugeType": "23",
+    "stringData": "Now Loading…"
+  },
+  {
+    "stringID": "5",
+    "langaugeType": "23",
+    "stringData": ""
+  },
+  {
+    "stringID": "6",
+    "langaugeType": "23",
+    "stringData": ""
+  },
+  {
+    "stringID": "7",
+    "langaugeType": "23",
+    "stringData": ""
+  },
+  {
+    "stringID": "8",
+    "langaugeType": "23",
+    "stringData": ""
+  },
+  {
+    "stringID": "9",
+    "langaugeType": "23",
+    "stringData": ""
+  },
+  {
+    "stringID": "10",
+    "langaugeType": "23",
+    "stringData": ""
+  }
+]
