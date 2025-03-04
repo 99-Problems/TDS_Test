@@ -161,8 +161,12 @@ public class InGamePlayInfo : MonoBehaviour
         Debug.ColorLog("게임 시작", Color.green);
     }
 
+    public bool isEnd = false;
     protected virtual bool IsEndCondition()
     {
+        if (!isEnd)
+            return false;
+
 #if UNITY_EDITOR
         if (Managers.isinfinityMode) return false;
 #endif
